@@ -25,7 +25,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calista0429&langs_count=8&layout=compact&theme=tokyonight" height="195" width="">
 </a>
 
-## 📈 [WakaTime Stats](https://wakatime.com/@Calista0429)
+##  [WakaTime Stats](https://wakatime.com/@Calista0429)
 
 [![WakaTime](https://img.shields.io/badge/WakaTime-Calista0429-blueviolet?style=flat&logo=wakatime&logoColor=white)](https://wakatime.com/@Calista0429)
 
