@@ -5,18 +5,18 @@
 
 ---
 
-### 💡 About Me
+##  About Me
 
-🎓 I'm a master's student at **The University of Tokyo**  
-🌏 Multilingual: **Chinese / Japanese / English**  
-🎯 Passionate about **Generative AI**, **Deep Learning**, and **Data Analysis**  
-🎨 I love **photography**, **reading**, **cooking**, and all kinds of **arts**  
-🏀 Big fan of **basketball**, **badminton**, and **jogging**
+ - I'm a master's student at **The University of Tokyo**  
+ - Multilingual: **Chinese / Japanese / English**  
+ - Passionate about **Generative AI**, **Deep Learning**, and **Data Analysis**  
+ - I love **photography**, **reading**, **cooking**,and all kinds of **arts**  
+- Big fan of **basketball**, **badminton**, and **jogging**
 
 ---
 
 
-### GitHub Stats
+## GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=Calista0429&show_icons=true&theme=radical" height="195" width="">
 </a>
