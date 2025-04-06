@@ -17,12 +17,22 @@
 
 
 ### GitHub Stats
-![Calista's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calista0429&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Calista0429&show_icons=true&theme=radical" height="195" width="">
+</a>
+&ensp;
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calista0429&langs_count=8&layout=compact&theme=tokyonight" height="195" width="">
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calista0429&langs_count=8&layout=compact&theme=tokyonight)
+## 📈 [WakaTime Stats](https://wakatime.com/@Calista0429)
 
+[![WakaTime](https://img.shields.io/badge/WakaTime-Calista0429-blueviolet?style=flat&logo=wakatime&logoColor=white)](https://wakatime.com/@Calista0429)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Calista0429)](https://github.com/Calista0429)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Calista0429&layout=compact&theme=tokyonight" />
+</div>
+
 
 
 
