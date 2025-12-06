@@ -5,48 +5,64 @@
 
 ---
 
-##  About Me
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
- - I'm a master's student at **The University of Tokyo**  
- - Multilingual: **Chinese / Japanese / English**  
- - Passionate about **Generative AI**, **Deep Learning**, and **Data Analysis**  
- - I love **photography**, **reading**, **cooking**,and all kinds of **arts**  
-- Big fan of **basketball**, **badminton**, and **jogging**
+
+
+### Backend Development  
+<div align="center">  
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Infrastructure & DevOps  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### AI / Machine Learning  
+<div align="center">  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+</div>
+
+</td></tr></table>
 
 ---
 
 
 ## GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Calista0429&show_icons=true&theme=radical" height="195" width="">
-</a>
+
 &ensp;
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calista0429&langs_count=8&layout=compact&theme=tokyonight" height="195" width="">
+<a href="https://github.com/Calista0429">
+  <img src="https://github-readme-stats-tau-ten-86.vercel.app/api?username=Calista0429&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800&v=2" height="195">
 </a>
+
 
 ##  [WakaTime Stats](https://wakatime.com/@Calista0429)
 
-[![WakaTime](https://img.shields.io/badge/WakaTime-Calista0429-blueviolet?style=flat&logo=wakatime&logoColor=white)](https://wakatime.com/@Calista0429)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Calista0429&layout=compact&theme=tokyonight" />
-</div>
+[![wakatime](https://wakatime.com/badge/user/a92e24ad-11bb-4a5c-85d8-0b2dd5700848.svg)](https://wakatime.com/@a92e24ad-11bb-4a5c-85d8-0b2dd5700848)
 
 
 
 
-<!--
-**Calista0429/Calista0429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
