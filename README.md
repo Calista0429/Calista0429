@@ -60,6 +60,42 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2032%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+🌆 Daytime                59 commits          ███████████░░░░░░░░░░░░░░   44.36 % 
+🌃 Evening                51 commits          ██████████░░░░░░░░░░░░░░░   38.35 % 
+🌙 Night                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Tuesday                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Wednesday                31 commits          ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Thursday                 26 commits          █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Friday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Saturday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Sunday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     10 hrs 8 mins       ███████████████████░░░░░░   77.02 % 
+XML                      1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Python                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+```
+
+
+ Last Updated on 06/12/2025 05:17:53 UTC
 <!--END_SECTION:waka-->
 
 
