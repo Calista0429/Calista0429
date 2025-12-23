@@ -60,26 +60,26 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2040%20mins-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-🌆 Daytime                60 commits          ███████████░░░░░░░░░░░░░░   43.48 % 
-🌃 Evening                54 commits          ██████████░░░░░░░░░░░░░░░   39.13 % 
-🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+🌞 Morning                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+🌆 Daytime                61 commits          ███████████░░░░░░░░░░░░░░   43.88 % 
+🌃 Evening                54 commits          ██████████░░░░░░░░░░░░░░░   38.85 % 
+🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Tuesday                  15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Wednesday                33 commits          ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-Thursday                 27 commits          █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Friday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Saturday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Sunday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Monday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Tuesday                  15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Wednesday                33 commits          ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Thursday                 27 commits          █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Friday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Saturday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Sunday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
 ```
 
 
@@ -87,19 +87,19 @@ Sunday                   19 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     7 hrs 3 mins        █████████████░░░░░░░░░░░░   50.21 % 
-Python                   5 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.44 % 
-YAML                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-XML                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Java                     9 hrs 20 mins       █████████████████░░░░░░░░   67.39 % 
+Python                   2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+YAML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+XML                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 💻 Operating System: 
-Mac                      8 hrs 30 mins       ███████████████░░░░░░░░░░   60.51 % 
-Windows                  5 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   39.49 % 
+Mac                      12 hrs 13 mins      ██████████████████████░░░   88.18 % 
+Windows                  1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
 ```
 
 
- Last Updated on 22/12/2025 05:22:41 UTC
+ Last Updated on 23/12/2025 05:22:23 UTC
 <!--END_SECTION:waka-->
 
 
