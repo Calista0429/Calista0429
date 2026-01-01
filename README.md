@@ -60,7 +60,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2056%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -87,18 +87,18 @@ Sunday                   19 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     11 hrs 14 mins      ███████████████░░░░░░░░░░   61.14 % 
-JavaScript               4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-XML                      1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Java                     8 hrs 30 mins       █████████████░░░░░░░░░░░░   52.52 % 
+JavaScript               5 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.05 % 
+XML                      1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Python                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+SQL                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 💻 Operating System: 
-Mac                      18 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/12/2025 05:23:17 UTC
+ Last Updated on 01/01/2026 05:25:40 UTC
 <!--END_SECTION:waka-->
 
 
