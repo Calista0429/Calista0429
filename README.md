@@ -87,17 +87,17 @@ Sunday                   24 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     5 hrs 21 mins       ████████████████░░░░░░░░░   64.54 % 
-Python                   2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.65 % 
-SQL                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Java                     5 hrs 21 mins       ████████████████░░░░░░░░░   63.35 % 
+Python                   2 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   31.92 % 
+SQL                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-Mac                      8 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/01/2026 05:24:30 UTC
+ Last Updated on 14/01/2026 05:22:59 UTC
 <!--END_SECTION:waka-->
 
 
