@@ -65,21 +65,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-🌆 Daytime                81 commits          ████████████░░░░░░░░░░░░░   46.29 % 
-🌃 Evening                66 commits          █████████░░░░░░░░░░░░░░░░   37.71 % 
-🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+🌞 Morning                17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+🌆 Daytime                81 commits          ████████████░░░░░░░░░░░░░   46.02 % 
+🌃 Evening                67 commits          ██████████░░░░░░░░░░░░░░░   38.07 % 
+🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Tuesday                  17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Wednesday                37 commits          █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-Thursday                 35 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Saturday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Sunday                   27 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Monday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Tuesday                  17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Wednesday                37 commits          █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Thursday                 35 commits          █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Saturday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Sunday                   27 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
 ```
 
 
@@ -87,18 +87,18 @@ Sunday                   27 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     44 mins             ███████████░░░░░░░░░░░░░░   45.42 % 
-Python                   23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-Lua                      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-SQL                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Java                     31 mins             █████████░░░░░░░░░░░░░░░░   37.54 % 
+Python                   23 mins             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+Lua                      16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+SQL                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 💻 Operating System: 
-Mac                      1 hr 38 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/01/2026 05:32:07 UTC
+ Last Updated on 27/01/2026 05:25:39 UTC
 <!--END_SECTION:waka-->
 
 
