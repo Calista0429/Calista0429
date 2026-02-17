@@ -87,18 +87,16 @@ Sunday                   29 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   52 mins             ██████████████░░░░░░░░░░░   57.05 % 
-Docker                   29 mins             ████████░░░░░░░░░░░░░░░░░   31.48 % 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Python                   30 mins             ███████████░░░░░░░░░░░░░░   45.21 % 
+Docker                   29 mins             ███████████░░░░░░░░░░░░░░   43.10 % 
+Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
 
 💻 Operating System: 
-Mac                      1 hr 32 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/02/2026 06:05:21 UTC
+ Last Updated on 17/02/2026 05:56:00 UTC
 <!--END_SECTION:waka-->
 
 
