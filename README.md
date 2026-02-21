@@ -60,7 +60,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2026%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -87,16 +87,18 @@ Sunday                   29 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       1 hr 41 mins        █████████████████████████   99.73 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Go                       1 hr 41 mins        ██████████████░░░░░░░░░░░   55.51 % 
+Ruby                     1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   41.84 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/02/2026 05:52:16 UTC
+ Last Updated on 21/02/2026 05:40:42 UTC
 <!--END_SECTION:waka-->
 
 
