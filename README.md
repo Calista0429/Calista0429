@@ -60,26 +60,26 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2045%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-🌆 Daytime                88 commits          ███████████░░░░░░░░░░░░░░   44.44 % 
-🌃 Evening                72 commits          █████████░░░░░░░░░░░░░░░░   36.36 % 
-🌙 Night                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+🌞 Morning                36 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+🌆 Daytime                93 commits          ███████████░░░░░░░░░░░░░░   42.47 % 
+🌃 Evening                78 commits          █████████░░░░░░░░░░░░░░░░   35.62 % 
+🌙 Night                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Tuesday                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Wednesday                40 commits          █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Thursday                 42 commits          █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Friday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Saturday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Sunday                   29 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Tuesday                  36 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Wednesday                41 commits          █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Thursday                 52 commits          ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Friday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Saturday                 20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Sunday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 ```
 
 
@@ -87,14 +87,14 @@ Sunday                   29 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/03/2026 05:45:58 UTC
+ Last Updated on 31/03/2026 06:25:13 UTC
 <!--END_SECTION:waka-->
 
 
