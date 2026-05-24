@@ -87,19 +87,19 @@ Sunday                   29 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   38.01 % 
-Other                    47 mins             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Batchfile                22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-HTML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Markdown                 1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   39.07 % 
+Other                    47 mins             ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+Batchfile                22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+HTML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 💻 Operating System: 
-Mac                      3 hrs 4 mins        █████████████████████░░░░   85.80 % 
-Windows                  30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Mac                      3 hrs 4 mins        ██████████████████████░░░   88.20 % 
+Windows                  24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 ```
 
 
- Last Updated on 23/05/2026 07:30:14 UTC
+ Last Updated on 24/05/2026 07:47:55 UTC
 <!--END_SECTION:waka-->
 
 
