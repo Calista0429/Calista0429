@@ -87,19 +87,14 @@ Sunday                   29 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 26 mins        ███████████████░░░░░░░░░░   58.18 % 
-Other                    36 mins             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Vue                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Markdown                 1 hr 26 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        ███████████████░░░░░░░░░░   58.18 % 
-Mac                      1 hr 1 min          ██████████░░░░░░░░░░░░░░░   41.82 % 
+Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/05/2026 08:29:54 UTC
+ Last Updated on 27/05/2026 08:37:26 UTC
 <!--END_SECTION:waka-->
 
 
