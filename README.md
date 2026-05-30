@@ -60,8 +60,41 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2014%20mins-blue?style=flat)
 
- Last Updated on 29/05/2026 08:40:53 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                52 commits          █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+🌆 Daytime                108 commits         ███████████░░░░░░░░░░░░░░   42.02 % 
+🌃 Evening                85 commits          ████████░░░░░░░░░░░░░░░░░   33.07 % 
+🌙 Night                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Tuesday                  47 commits          █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Wednesday                44 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Thursday                 64 commits          ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+Friday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Saturday                 26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Sunday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 1 hr 35 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 30/05/2026 07:39:55 UTC
 <!--END_SECTION:waka-->
 
 
