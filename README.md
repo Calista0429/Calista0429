@@ -87,19 +87,19 @@ Sunday                   29 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   12 hrs 7 mins       ██████████████░░░░░░░░░░░   56.72 % 
-Markdown                 3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-TypeScript               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Batchfile                1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-CSV                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Python                   12 hrs 23 mins      ██████████████░░░░░░░░░░░   54.62 % 
+Markdown                 4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+TypeScript               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Batchfile                1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+CSV                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 💻 Operating System: 
-Windows                  15 hrs 52 mins      ███████████████████░░░░░░   74.26 % 
-Mac                      5 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+Windows                  17 hrs 10 mins      ███████████████████░░░░░░   75.73 % 
+Mac                      5 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
 ```
 
 
- Last Updated on 09/06/2026 08:29:49 UTC
+ Last Updated on 10/06/2026 08:47:22 UTC
 <!--END_SECTION:waka-->
 
 
