@@ -60,7 +60,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2053%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -87,19 +87,19 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.69 % 
-Markdown                 3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-TeX                      3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Other                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Python                   6 hrs 31 mins       ████████████░░░░░░░░░░░░░   49.18 % 
+Markdown                 2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Other                    1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+TeX                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Java                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 💻 Operating System: 
-Windows                  9 hrs 47 mins       █████████████░░░░░░░░░░░░   50.18 % 
-Mac                      9 hrs 43 mins       ████████████░░░░░░░░░░░░░   49.82 % 
+Windows                  10 hrs 17 mins      ███████████████████░░░░░░   77.55 % 
+Mac                      2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
 ```
 
 
- Last Updated on 24/06/2026 08:20:39 UTC
+ Last Updated on 25/06/2026 08:21:45 UTC
 <!--END_SECTION:waka-->
 
 
