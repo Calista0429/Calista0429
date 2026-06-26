@@ -87,19 +87,19 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 31 mins       ████████████░░░░░░░░░░░░░   49.18 % 
-Markdown                 2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Other                    1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-TeX                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Java                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Python                   4 hrs 37 mins       ██████████████░░░░░░░░░░░   55.41 % 
+Other                    1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Java                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 💻 Operating System: 
-Windows                  10 hrs 17 mins      ███████████████████░░░░░░   77.55 % 
-Mac                      2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Windows                  6 hrs 53 mins       █████████████████████░░░░   82.57 % 
+Mac                      1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
 ```
 
 
- Last Updated on 25/06/2026 08:21:45 UTC
+ Last Updated on 26/06/2026 08:29:11 UTC
 <!--END_SECTION:waka-->
 
 
